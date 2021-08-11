@@ -32,7 +32,7 @@ Please see link to Tableau Story: [link to dashboard](https://public.tableau.com
 
 5. The Trips by Weekday per Hour illustrates that Thursday is the busiest day for bikes. ALso the busiest time for bike check out is around 8 am and around 5-6 pm. 
 
-![Trips by Gender (Weekday per Hour)]("Trips by Gender (Weekday per Hour).png")
+![Trips by Gender (Weekday per Hour)](https://github.com/ksung1923/bikesharing/blob/34a399895f25367c8b07995e2edc80bc06b4f888/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
 6. The Trips by Gender (Weekday per Hour) again highlights more male riders than females. The busiest hours are 8 am and 5-6 pm. Thursday is the busiest day for bike checkouts. 
 
