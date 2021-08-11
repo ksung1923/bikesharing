@@ -13,7 +13,7 @@ I used data from https://www.citibikenyc.com/system-data and downloaded the file
 
 ## Results
 
-Please see link to Tableau Story: [Link to Dashboard](https://public.tableau.com/app/profile/krystal.sung/viz/NYCCitiBikeStory_16286342835150/NYCCitiBike#1)
+Please see link to Tableau Story: [link to dashboard](https://public.tableau.com/app/profile/krystal.sung/viz/NYCCitiBikeStory_16286342835150/NYCCitiBike#1)
 
 
 ![NYC Citi Bike Facts](https://github.com/ksung1923/bikesharing/blob/29c3df09f770aaa8a0a30d1152d0aa7b52ec9f2d/NYC%20Citi%20Bike%20Facts.png)
