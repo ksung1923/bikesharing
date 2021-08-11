@@ -13,14 +13,14 @@ I used data from https://www.citibikenyc.com/system-data and downloaded the file
 
 ## Results
 
-Please see link to Tableau Story: [link to dashboard("https://public.tableau.com/app/profile/krystal.sung/viz/NYCCitiBikeStory_16286342835150/NYCCitiBike#1")
+Please see link to Tableau Story: [link to dashboard]("https://public.tableau.com/app/profile/krystal.sung/viz/NYCCitiBikeStory_16286342835150/NYCCitiBike#1")
 
 
 ![NYC Citi Bike Facts](https://github.com/ksung1923/bikesharing/blob/29c3df09f770aaa8a0a30d1152d0aa7b52ec9f2d/NYC%20Citi%20Bike%20Facts.png)
 1. The NYC Citi Bike Facts Dashboard shows most customers are subscribers and males. 
 2. The NYC Citi Bike Facts Dashboard shows the peak hours in August are before work around 8 am and after work around 5-6 pm. 
 
-![Checkout Times for Users](Checkout Times for Users.png)
+![Checkout Times for Users](https://github.com/ksung1923/bikesharing/blob/2bf56fd7e01cf48ee0e961fcc5fbd82ab4fbce7c/Checkout%20Times%20for%20Users.png)
 
 3. The Checkout Times for Users shows the number of bikes checked out increases as the trip duration increases. 
 
