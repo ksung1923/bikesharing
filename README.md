@@ -24,7 +24,7 @@ Please see link to Tableau Story: [link to dashboard]("https://public.tableau.co
 
 3. The Checkout Times for Users shows the number of bikes checked out increases as the trip duration increases. 
 
-![Checkout Times for Gender]("Checkout Times for Gender.png")
+![Checkout Times for Gender]("https://github.com/ksung1923/bikesharing/blob/5903c97b19c6641908ed117da9aa618cd7a6a0ce/Checkout%20Times%20for%20Gender.png")
 
 4. The Checkout Times for Gender illustrates that females and unknown checked out fewer bikes than males. For males, we see the number of bikes checked out drastically increase as the trip duration increases to 1-2 hours. 
 
