@@ -13,7 +13,7 @@ I used data from https://www.citibikenyc.com/system-data and downloaded the file
 
 ## Results
 
-Please see link to Tableau Story: [link to dashboard]("https://public.tableau.com/app/profile/krystal.sung/viz/NYCCitiBikeStory_16286342835150/NYCCitiBike#1")
+Please see link to Tableau Story: [link to dashboard](https://public.tableau.com/app/profile/krystal.sung/viz/NYCCitiBikeStory_16286342835150/NYCCitiBike#1)
 
 
 ![NYC Citi Bike Facts](https://github.com/ksung1923/bikesharing/blob/29c3df09f770aaa8a0a30d1152d0aa7b52ec9f2d/NYC%20Citi%20Bike%20Facts.png)
@@ -24,11 +24,11 @@ Please see link to Tableau Story: [link to dashboard]("https://public.tableau.co
 
 3. The Checkout Times for Users shows the number of bikes checked out increases as the trip duration increases. 
 
-![Checkout Times for Gender]("https://github.com/ksung1923/bikesharing/blob/5903c97b19c6641908ed117da9aa618cd7a6a0ce/Checkout%20Times%20for%20Gender.png")
+![Checkout Times for Gender](https://github.com/ksung1923/bikesharing/blob/5903c97b19c6641908ed117da9aa618cd7a6a0ce/Checkout%20Times%20for%20Gender.png)
 
 4. The Checkout Times for Gender illustrates that females and unknown checked out fewer bikes than males. For males, we see the number of bikes checked out drastically increase as the trip duration increases to 1-2 hours. 
 
-![Trips by Weekday per Hour]("Trips by Weekday per Hour.png")
+![Trips by Weekday per Hour](https://github.com/ksung1923/bikesharing/blob/d4a96f88533d2ce7c12c4e9fc8fbd12e2dea358c/Trips%20by%20Weekday%20per%20Hour.png)
 
 5. The Trips by Weekday per Hour illustrates that Thursday is the busiest day for bikes. ALso the busiest time for bike check out is around 8 am and around 5-6 pm. 
 
