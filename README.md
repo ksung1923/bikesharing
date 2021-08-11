@@ -16,7 +16,7 @@ I used data from https://www.citibikenyc.com/system-data and downloaded the file
 Please see link to Tableau Story: [link to dashboard("https://public.tableau.com/app/profile/krystal.sung/viz/NYCCitiBikeStory_16286342835150/NYCCitiBike#1")
 
 
-![NYC Citi Bike Facts](NYC Citi Bike Facts.png)
+![NYC Citi Bike Facts](https://github.com/ksung1923/bikesharing/blob/29c3df09f770aaa8a0a30d1152d0aa7b52ec9f2d/NYC%20Citi%20Bike%20Facts.png)
 1. The NYC Citi Bike Facts Dashboard shows most customers are subscribers and males. 
 2. The NYC Citi Bike Facts Dashboard shows the peak hours in August are before work around 8 am and after work around 5-6 pm. 
 
